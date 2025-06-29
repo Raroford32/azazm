@@ -1,0 +1,11 @@
+/root/crdp/build/CMakeFiles/rdp_nla_checker.dir
+/root/crdp/build/CMakeFiles/format.dir
+/root/crdp/build/CMakeFiles/analyze.dir
+/root/crdp/build/CMakeFiles/package.dir
+/root/crdp/build/CMakeFiles/package_source.dir
+/root/crdp/build/CMakeFiles/edit_cache.dir
+/root/crdp/build/CMakeFiles/rebuild_cache.dir
+/root/crdp/build/CMakeFiles/list_install_components.dir
+/root/crdp/build/CMakeFiles/install.dir
+/root/crdp/build/CMakeFiles/install/local.dir
+/root/crdp/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,17 @@
+Determining if the include file gssapi/gssapi_ntlm.h exists failed with the following output:
+Change Dir: /root/crdp/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_0721a/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_0721a.dir/build.make CMakeFiles/cmTC_0721a.dir/build
+gmake[1]: Entering directory '/root/crdp/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0721a.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -Wall -Wextra -Werror  -std=gnu99 -o CMakeFiles/cmTC_0721a.dir/CheckIncludeFile.c.o -c /root/crdp/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/root/crdp/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: gssapi/gssapi_ntlm.h: No such file or directory
+    1 | #include <gssapi/gssapi_ntlm.h>
+      |          ^~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_0721a.dir/build.make:78: CMakeFiles/cmTC_0721a.dir/CheckIncludeFile.c.o] Error 1
+gmake[1]: Leaving directory '/root/crdp/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_0721a/fast] Error 2
+
+
+
